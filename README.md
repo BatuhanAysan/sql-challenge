@@ -124,5 +124,3 @@ Through this project:
 ✅ Gained experience in defining **Foreign Key and Primary Key relationships.**
 ✅ Successfully **imported CSV data into PostgreSQL using pgAdmin’s Import Tool.**
 ✅ Performed **data analysis** using SQL queries.
-
-🚀 Future enhancements could include tracking salary changes and department transfers over time!
